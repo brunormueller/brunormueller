@@ -1,9 +1,11 @@
-### Olá! Eu sou Bruno Mueller 👋
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-mueller-abb369132)
+### Hey! I'm Bruno Mueller👋 Full Stack Developer
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-mueller-abb369132)[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/5961)
+
+
 
 ![Bruno GitHub stats](https://github-readme-stats.vercel.app/api?username=brunormueller&show_icons=true&theme=radical)
 
-## Tecnologias que uso no meu dia 🔥
+## Technologies I use in my day 🔥
 
 <div style="display: incline_block"><br/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
